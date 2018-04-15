@@ -1,0 +1,6 @@
+# IDE
+.vs/
+
+bin/
+obj/
+packages/
